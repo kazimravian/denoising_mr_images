@@ -1,1 +1,1 @@
-# denoising_mr_image
+# denoising_mr_images
